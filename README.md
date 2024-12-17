@@ -1,4 +1,4 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=goofy ahh developer in ohio%20render&fontSize=90)
 
 <!--
 **mmmmmmnze/mmmmmmnze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
